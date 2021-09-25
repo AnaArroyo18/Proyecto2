@@ -1,0 +1,17 @@
+header {
+    background: rgb(89, 95, 10);
+}
+
+img {
+    object-fit: cover;
+    padding-bottom: 50px;
+}
+.button {
+background-color:#595F0A;
+}
+
+.featureImg {
+    object-fit: cover;
+    width: 500px;
+    height: 500px;
+}
